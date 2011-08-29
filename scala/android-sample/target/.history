@@ -1,0 +1,29 @@
+android:package-debug
+android:package-config
+last android:package-config
+las tandroid:package-de
+las tandroid:package-debug
+last android:package-debug
+clean 
+exit
+android:package-apk-path
+android:package-apk-name
+android:package-apk-con
+android:package-apk-confi
+android:package-apk-config
+android:package-config
+exit
+compile
+android:emulator-start android-10
+android:emulator-start 
+android:emulator-start 9
+android:emulator-start 10
+android:emulator-start none
+install-device
+start-emulator evo-wimax
+android:emulator-start evo-wimax
+start-emulator
+compile
+android:emulator-start  evo-wimax
+start-emulator
+install-device

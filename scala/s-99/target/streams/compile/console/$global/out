@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0minfo[0m] [0mStarting scala interpreter...[0m
+[0m[[0mdebug[0m] [0m  Boot classpath: /opt/sun-jdk-1.6.0.26/jre/lib/resources.jar:/opt/sun-jdk-1.6.0.26/jre/lib/rt.jar:/opt/sun-jdk-1.6.0.26/jre/lib/sunrsasign.jar:/opt/sun-jdk-1.6.0.26/jre/lib/jsse.jar:/opt/sun-jdk-1.6.0.26/jre/lib/jce.jar:/opt/sun-jdk-1.6.0.26/jre/lib/charsets.jar:/opt/sun-jdk-1.6.0.26/jre/lib/modules/jdk.boot.jar:/opt/sun-jdk-1.6.0.26/jre/classes:/data/src/github/sandobx/scala/s-99/project/boot/scala-2.8.1/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m  Classpath: /data/src/github/sandobx/scala/s-99/target/scala-2.8.1.final/classes:/data/src/github/sandobx/scala/s-99/project/boot/scala-2.8.1/lib/scala-compiler.jar:/data/src/github/sandobx/scala/s-99/project/boot/scala-2.8.1/lib/junit.jar:/data/src/github/sandobx/scala/s-99/project/boot/scala-2.8.1/lib/jline.jar[0m
+[0m[[0minfo[0m] [0m[0m

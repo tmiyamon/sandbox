@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/data/src/github/sandobx/scala/unfiltered-sample/src/main/resources/www,/data/src/github/sandobx/scala/unfiltered-sample/target/scala-2.8.1.final/classes/www)[0m
+[0m[[0mdebug[0m] [0m	(/data/src/github/sandobx/scala/unfiltered-sample/src/main/resources/avsl.conf,/data/src/github/sandobx/scala/unfiltered-sample/target/scala-2.8.1.final/classes/avsl.conf)[0m
+[0m[[0mdebug[0m] [0m	(/data/src/github/sandobx/scala/unfiltered-sample/src/main/resources/www/css,/data/src/github/sandobx/scala/unfiltered-sample/target/scala-2.8.1.final/classes/www/css)[0m
+[0m[[0mdebug[0m] [0m	(/data/src/github/sandobx/scala/unfiltered-sample/src/main/resources/www/css/app.css,/data/src/github/sandobx/scala/unfiltered-sample/target/scala-2.8.1.final/classes/www/css/app.css)[0m

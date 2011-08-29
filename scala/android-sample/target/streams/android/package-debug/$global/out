@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0mPackaging /data/src/github/sandobx/scala/android-sample/target/android-sample.apk[0m
+[0m[[0mdebug[0m] [0mUsing keystore: /home/takuya/.android/debug.keystore[0m
+[0m[[0mdebug[0m] [0mPackaging android-sample.apk[0m
+[0m[[0mdebug[0m] [0m/data/src/github/sandobx/scala/android-sample/target/resources.apk:[0m
+[0m[[0mdebug[0m] [0m=> AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0m=> resources.arsc[0m
+[0m[[0mdebug[0m] [0m/data/src/github/sandobx/scala/android-sample/target/classes.dex => classes.dex[0m
+[0m[[0mdebug[0m] [0m/data/src/github/sandobx/scala/android-sample/target/classes.min.jar:[0m
